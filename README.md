@@ -12,6 +12,7 @@ All experiments have been conducted on 4x 4090 GPUs
 PFB parameters:
 
 | PFB Parameter            | help  |
+| ------------------------ | ------ |
 | `--use-online`           |        |
 | `--ratio`                | `prune ratio` |
 | `--kernel`               | `KDE Kernel Number`  |
