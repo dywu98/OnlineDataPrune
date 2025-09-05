@@ -13,7 +13,7 @@ PFB parameters:
 
 | PFB Parameter            | help  |
 | ------------------------ | ------ |
-| `--use-online`           |        |
+| `--use-online`           | `Use the proposed PFB data pruning strategy`  |
 | `--ratio`                | `prune ratio` |
 | `--kernel`               | `KDE Kernel Number`  |
 | `--kernel-channel`       | `KDE kernel Channel Number`  |
